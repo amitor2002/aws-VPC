@@ -55,7 +55,7 @@ To securely access **GitLab** and **Jenkins** running in private subnets, a **Ba
   - Inbound SSH (port 22) from your **local IP**
 - From the Bastion, generate or upload SSH keys to access GitLab and Jenkins instances
 
-### 🔐 SSH Tunnels - Bastion(from your local machine)
+### 🔐 SSH Tunnels (from your local machine)
 
 Edit your `~/.ssh/config` file:
 
